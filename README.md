@@ -1,4 +1,4 @@
-Code used to create a sheet music denoiser ML model for Computer Vision class
+Code used to create a sheet music denoiser ML model for Computer Vision class (Spring 2024)
 
 Includes:
   -code to create datasets by adding noise/blur to images
